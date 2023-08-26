@@ -1,0 +1,124 @@
+# Vim 9.0 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q!
+|2,0,1687141191,,"q!"
+:q
+|2,0,1687130054,,"q"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+
+# Marcas en el archivo:
+'0  28  50  ~/.config/bspwm/bspwmrc
+|4,48,28,50,1691547053,"~/.config/bspwm/bspwmrc"
+'1  20  23  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,49,20,23,1687455695,"~/.config/rofi/launchers/type-1/launcher.sh"
+'2  27  36  ~/.config/bspwm/bspwmrc
+|4,50,27,36,1687141191,"~/.config/bspwm/bspwmrc"
+'3  27  36  ~/.config/bspwm/bspwmrc
+|4,51,27,36,1687141191,"~/.config/bspwm/bspwmrc"
+'4  21  32  ~/.config/bspwm/bspwmrc
+|4,52,21,32,1687130054,"~/.config/bspwm/bspwmrc"
+'5  21  32  ~/.config/bspwm/bspwmrc
+|4,53,21,32,1687130054,"~/.config/bspwm/bspwmrc"
+'6  21  32  ~/.config/bspwm/bspwmrc
+|4,54,21,32,1687130054,"~/.config/bspwm/bspwmrc"
+'7  21  32  ~/.config/bspwm/bspwmrc
+|4,55,21,32,1687130054,"~/.config/bspwm/bspwmrc"
+
+# Lista de saltos (el más reciente va primero):
+-'  28  50  ~/.config/bspwm/bspwmrc
+|4,39,28,50,1691547053,"~/.config/bspwm/bspwmrc"
+-'  27  19  ~/.config/bspwm/bspwmrc
+|4,39,27,19,1691547044,"~/.config/bspwm/bspwmrc"
+-'  20  23  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,39,20,23,1687455695,"~/.config/rofi/launchers/type-1/launcher.sh"
+-'  20  23  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,39,20,23,1687455695,"~/.config/rofi/launchers/type-1/launcher.sh"
+-'  20  23  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,39,20,23,1687455695,"~/.config/rofi/launchers/type-1/launcher.sh"
+-'  20  23  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,39,20,23,1687455695,"~/.config/rofi/launchers/type-1/launcher.sh"
+-'  1  0  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,39,1,0,1687455691,"~/.config/rofi/launchers/type-1/launcher.sh"
+-'  1  0  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,39,1,0,1687455691,"~/.config/rofi/launchers/type-1/launcher.sh"
+-'  1  0  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,39,1,0,1687455691,"~/.config/rofi/launchers/type-1/launcher.sh"
+-'  1  0  ~/.config/rofi/launchers/type-1/launcher.sh
+|4,39,1,0,1687455691,"~/.config/rofi/launchers/type-1/launcher.sh"
+-'  27  36  ~/.config/bspwm/bspwmrc
+|4,39,27,36,1687141191,"~/.config/bspwm/bspwmrc"
+-'  27  36  ~/.config/bspwm/bspwmrc
+|4,39,27,36,1687141191,"~/.config/bspwm/bspwmrc"
+-'  27  36  ~/.config/bspwm/bspwmrc
+|4,39,27,36,1687141191,"~/.config/bspwm/bspwmrc"
+-'  27  36  ~/.config/bspwm/bspwmrc
+|4,39,27,36,1687141191,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687141046,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687141046,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687141046,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687141046,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687141046,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687130054,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687130054,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687130054,"~/.config/bspwm/bspwmrc"
+-'  21  32  ~/.config/bspwm/bspwmrc
+|4,39,21,32,1687130054,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+-'  1  0  ~/.config/bspwm/bspwmrc
+|4,39,1,0,1687130026,"~/.config/bspwm/bspwmrc"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.config/bspwm/bspwmrc
+	*	1691547050	0
+	"	28	50
+	^	27	37
+	.	27	37
+	+	27	37
+
+> ~/.config/rofi/launchers/type-1/launcher.sh
+	*	1687455694	0
+	"	20	23
